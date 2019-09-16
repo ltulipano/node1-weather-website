@@ -1,4 +1,3 @@
-console.log('client side javascript file!');
 
 // fetch('http://puzzle.mead.io/puzzle').then((res) => {
 //   res.json().then((data) => {
